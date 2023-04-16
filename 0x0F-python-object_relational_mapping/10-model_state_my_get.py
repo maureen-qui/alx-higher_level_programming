@@ -1,4 +1,4 @@
-                                                                        #!/usr/bin/python3
+#!/usr/bin/python3
 '''Prints the id of a State object with a given name in a database.
 '''
 import sys
