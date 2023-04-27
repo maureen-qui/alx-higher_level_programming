@@ -1,8 +1,9 @@
 #!/usr/bin/python3
-""" Rectangle class """
-
+# 0-rectangle.py
+# Maureen-qui <375@alx.com>
+"""Defines a Rectangle class."""
 
 
 class Rectangle:
-    """ empty class Rectangle that defines a rectangle """
+    """Represent a rectangle."""
     pass
